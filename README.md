@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello, I'm Audrey, a web developer in Toulouse - France, with 11 years' experience.
+Hello, I'm Audrey, a web developer from Toulouse - France, with 11 years' experience.
 I have a full-stack profile, with a front-end focus.
 
 In a few key words: 
